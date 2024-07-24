@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B8U/c/XYo6ue0Z48ePHIU/q3b8Oqq3tOA3RvtW6LsM+i8yf1qjCmB3EXG3aamaLm7xmK7D9j4blHtmauzOoElw==",
+  "dgSpecHash": "LMqeIXVxfy5zzhShEUloi573h6GJs57KBZMQYrctkcV/gQ2xlQZQTe3Lu1iD1evmLqWoYSuLw7OXZSw6ARNdUA==",
   "success": true,
-  "projectFilePath": "/Users/wonder_staff/My project/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.csproj",
+  "projectFilePath": "/Users/wonder_staff/Desktop/maze/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

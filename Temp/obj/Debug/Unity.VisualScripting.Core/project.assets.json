@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/wonder_staff/My project/Unity.VisualScripting.Core.csproj",
+      "projectUniqueName": "/Users/wonder_staff/Desktop/maze/Unity.VisualScripting.Core.csproj",
       "projectName": "Unity.VisualScripting.Core",
-      "projectPath": "/Users/wonder_staff/My project/Unity.VisualScripting.Core.csproj",
+      "projectPath": "/Users/wonder_staff/Desktop/maze/Unity.VisualScripting.Core.csproj",
       "packagesPath": "/Users/wonder_staff/.nuget/packages/",
-      "outputPath": "/Users/wonder_staff/My project/Temp/obj/Debug/Unity.VisualScripting.Core/",
+      "outputPath": "/Users/wonder_staff/Desktop/maze/Temp/obj/Debug/Unity.VisualScripting.Core/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/wonder_staff/.nuget/NuGet/NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/wonder_staff/My project/Unity.VisualScripting.State.csproj": {}
+    "/Users/wonder_staff/Desktop/maze/Unity.VisualScripting.State.csproj": {}
   },
   "projects": {
-    "/Users/wonder_staff/My project/Unity.VisualScripting.Core.csproj": {
+    "/Users/wonder_staff/Desktop/maze/Unity.VisualScripting.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/wonder_staff/My project/Unity.VisualScripting.Core.csproj",
+        "projectUniqueName": "/Users/wonder_staff/Desktop/maze/Unity.VisualScripting.Core.csproj",
         "projectName": "Unity.VisualScripting.Core",
-        "projectPath": "/Users/wonder_staff/My project/Unity.VisualScripting.Core.csproj",
+        "projectPath": "/Users/wonder_staff/Desktop/maze/Unity.VisualScripting.Core.csproj",
         "packagesPath": "/Users/wonder_staff/.nuget/packages/",
-        "outputPath": "/Users/wonder_staff/My project/Temp/obj/Debug/Unity.VisualScripting.Core/",
+        "outputPath": "/Users/wonder_staff/Desktop/maze/Temp/obj/Debug/Unity.VisualScripting.Core/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/wonder_staff/.nuget/NuGet/NuGet.Config"
@@ -57,14 +57,14 @@
         }
       }
     },
-    "/Users/wonder_staff/My project/Unity.VisualScripting.Flow.csproj": {
+    "/Users/wonder_staff/Desktop/maze/Unity.VisualScripting.Flow.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/wonder_staff/My project/Unity.VisualScripting.Flow.csproj",
+        "projectUniqueName": "/Users/wonder_staff/Desktop/maze/Unity.VisualScripting.Flow.csproj",
         "projectName": "Unity.VisualScripting.Flow",
-        "projectPath": "/Users/wonder_staff/My project/Unity.VisualScripting.Flow.csproj",
+        "projectPath": "/Users/wonder_staff/Desktop/maze/Unity.VisualScripting.Flow.csproj",
         "packagesPath": "/Users/wonder_staff/.nuget/packages/",
-        "outputPath": "/Users/wonder_staff/My project/Temp/obj/Debug/Unity.VisualScripting.Flow/",
+        "outputPath": "/Users/wonder_staff/Desktop/maze/Temp/obj/Debug/Unity.VisualScripting.Flow/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/wonder_staff/.nuget/NuGet/NuGet.Config"
@@ -79,8 +79,8 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "/Users/wonder_staff/My project/Unity.VisualScripting.Core.csproj": {
-                "projectPath": "/Users/wonder_staff/My project/Unity.VisualScripting.Core.csproj"
+              "/Users/wonder_staff/Desktop/maze/Unity.VisualScripting.Core.csproj": {
+                "projectPath": "/Users/wonder_staff/Desktop/maze/Unity.VisualScripting.Core.csproj"
               }
             }
           }
@@ -114,14 +114,14 @@
         }
       }
     },
-    "/Users/wonder_staff/My project/Unity.VisualScripting.State.csproj": {
+    "/Users/wonder_staff/Desktop/maze/Unity.VisualScripting.State.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/wonder_staff/My project/Unity.VisualScripting.State.csproj",
+        "projectUniqueName": "/Users/wonder_staff/Desktop/maze/Unity.VisualScripting.State.csproj",
         "projectName": "Unity.VisualScripting.State",
-        "projectPath": "/Users/wonder_staff/My project/Unity.VisualScripting.State.csproj",
+        "projectPath": "/Users/wonder_staff/Desktop/maze/Unity.VisualScripting.State.csproj",
         "packagesPath": "/Users/wonder_staff/.nuget/packages/",
-        "outputPath": "/Users/wonder_staff/My project/Temp/obj/Debug/Unity.VisualScripting.State/",
+        "outputPath": "/Users/wonder_staff/Desktop/maze/Temp/obj/Debug/Unity.VisualScripting.State/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/wonder_staff/.nuget/NuGet/NuGet.Config"
@@ -136,11 +136,11 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "/Users/wonder_staff/My project/Unity.VisualScripting.Core.csproj": {
-                "projectPath": "/Users/wonder_staff/My project/Unity.VisualScripting.Core.csproj"
+              "/Users/wonder_staff/Desktop/maze/Unity.VisualScripting.Core.csproj": {
+                "projectPath": "/Users/wonder_staff/Desktop/maze/Unity.VisualScripting.Core.csproj"
               },
-              "/Users/wonder_staff/My project/Unity.VisualScripting.Flow.csproj": {
-                "projectPath": "/Users/wonder_staff/My project/Unity.VisualScripting.Flow.csproj"
+              "/Users/wonder_staff/Desktop/maze/Unity.VisualScripting.Flow.csproj": {
+                "projectPath": "/Users/wonder_staff/Desktop/maze/Unity.VisualScripting.Flow.csproj"
               }
             }
           }

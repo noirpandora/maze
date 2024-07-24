@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/wonder_staff/My project/Unity.VisualScripting.Flow.csproj",
+      "projectUniqueName": "/Users/wonder_staff/Desktop/maze/Unity.VisualScripting.Flow.csproj",
       "projectName": "Unity.VisualScripting.Flow",
-      "projectPath": "/Users/wonder_staff/My project/Unity.VisualScripting.Flow.csproj",
+      "projectPath": "/Users/wonder_staff/Desktop/maze/Unity.VisualScripting.Flow.csproj",
       "packagesPath": "/Users/wonder_staff/.nuget/packages/",
-      "outputPath": "/Users/wonder_staff/My project/Temp/obj/Debug/Unity.VisualScripting.Flow/",
+      "outputPath": "/Users/wonder_staff/Desktop/maze/Temp/obj/Debug/Unity.VisualScripting.Flow/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/wonder_staff/.nuget/NuGet/NuGet.Config"
@@ -51,8 +51,8 @@
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "/Users/wonder_staff/My project/Unity.VisualScripting.Core.csproj": {
-              "projectPath": "/Users/wonder_staff/My project/Unity.VisualScripting.Core.csproj"
+            "/Users/wonder_staff/Desktop/maze/Unity.VisualScripting.Core.csproj": {
+              "projectPath": "/Users/wonder_staff/Desktop/maze/Unity.VisualScripting.Core.csproj"
             }
           }
         }

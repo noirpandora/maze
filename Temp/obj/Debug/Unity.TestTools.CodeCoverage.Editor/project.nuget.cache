@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9OTxEEJq81k+VBQVMI/qbNU/2oL6vUtx01anGq3qoZ3bH0W2MQz7ml2Fw0kER6E4+zVnelMpCjihADKDaYqQIA==",
+  "dgSpecHash": "/yUy8anD2AXozUsvX885Fqfdz7vpsUMiWz3iTWA5rMqC1kkmQ3FfdmVMZYXBaKfHdJ2lMsAhSVmNDzLubAULKw==",
   "success": true,
-  "projectFilePath": "/Users/wonder_staff/My project/Unity.TestTools.CodeCoverage.Editor.csproj",
+  "projectFilePath": "/Users/wonder_staff/Desktop/maze/Unity.TestTools.CodeCoverage.Editor.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

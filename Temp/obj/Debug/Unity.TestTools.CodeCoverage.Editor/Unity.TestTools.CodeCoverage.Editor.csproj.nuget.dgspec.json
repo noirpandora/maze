@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/wonder_staff/My project/Unity.TestTools.CodeCoverage.Editor.csproj": {}
+    "/Users/wonder_staff/Desktop/maze/Unity.TestTools.CodeCoverage.Editor.csproj": {}
   },
   "projects": {
-    "/Users/wonder_staff/My project/Unity.Settings.Editor.csproj": {
+    "/Users/wonder_staff/Desktop/maze/Unity.Settings.Editor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/wonder_staff/My project/Unity.Settings.Editor.csproj",
+        "projectUniqueName": "/Users/wonder_staff/Desktop/maze/Unity.Settings.Editor.csproj",
         "projectName": "Unity.Settings.Editor",
-        "projectPath": "/Users/wonder_staff/My project/Unity.Settings.Editor.csproj",
+        "projectPath": "/Users/wonder_staff/Desktop/maze/Unity.Settings.Editor.csproj",
         "packagesPath": "/Users/wonder_staff/.nuget/packages/",
-        "outputPath": "/Users/wonder_staff/My project/Temp/obj/Debug/Unity.Settings.Editor/",
+        "outputPath": "/Users/wonder_staff/Desktop/maze/Temp/obj/Debug/Unity.Settings.Editor/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/wonder_staff/.nuget/NuGet/NuGet.Config"
@@ -26,11 +26,11 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "/Users/wonder_staff/My project/UnityEditor.TestRunner.csproj": {
-                "projectPath": "/Users/wonder_staff/My project/UnityEditor.TestRunner.csproj"
+              "/Users/wonder_staff/Desktop/maze/UnityEditor.TestRunner.csproj": {
+                "projectPath": "/Users/wonder_staff/Desktop/maze/UnityEditor.TestRunner.csproj"
               },
-              "/Users/wonder_staff/My project/UnityEngine.TestRunner.csproj": {
-                "projectPath": "/Users/wonder_staff/My project/UnityEngine.TestRunner.csproj"
+              "/Users/wonder_staff/Desktop/maze/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/Users/wonder_staff/Desktop/maze/UnityEngine.TestRunner.csproj"
               }
             }
           }
@@ -64,14 +64,14 @@
         }
       }
     },
-    "/Users/wonder_staff/My project/Unity.TestTools.CodeCoverage.Editor.csproj": {
+    "/Users/wonder_staff/Desktop/maze/Unity.TestTools.CodeCoverage.Editor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/wonder_staff/My project/Unity.TestTools.CodeCoverage.Editor.csproj",
+        "projectUniqueName": "/Users/wonder_staff/Desktop/maze/Unity.TestTools.CodeCoverage.Editor.csproj",
         "projectName": "Unity.TestTools.CodeCoverage.Editor",
-        "projectPath": "/Users/wonder_staff/My project/Unity.TestTools.CodeCoverage.Editor.csproj",
+        "projectPath": "/Users/wonder_staff/Desktop/maze/Unity.TestTools.CodeCoverage.Editor.csproj",
         "packagesPath": "/Users/wonder_staff/.nuget/packages/",
-        "outputPath": "/Users/wonder_staff/My project/Temp/obj/Debug/Unity.TestTools.CodeCoverage.Editor/",
+        "outputPath": "/Users/wonder_staff/Desktop/maze/Temp/obj/Debug/Unity.TestTools.CodeCoverage.Editor/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/wonder_staff/.nuget/NuGet/NuGet.Config"
@@ -86,20 +86,20 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "/Users/wonder_staff/My project/Unity.Settings.Editor.csproj": {
-                "projectPath": "/Users/wonder_staff/My project/Unity.Settings.Editor.csproj"
+              "/Users/wonder_staff/Desktop/maze/Unity.Settings.Editor.csproj": {
+                "projectPath": "/Users/wonder_staff/Desktop/maze/Unity.Settings.Editor.csproj"
               },
-              "/Users/wonder_staff/My project/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.csproj": {
-                "projectPath": "/Users/wonder_staff/My project/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.csproj"
+              "/Users/wonder_staff/Desktop/maze/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.csproj": {
+                "projectPath": "/Users/wonder_staff/Desktop/maze/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.csproj"
               },
-              "/Users/wonder_staff/My project/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj": {
-                "projectPath": "/Users/wonder_staff/My project/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj"
+              "/Users/wonder_staff/Desktop/maze/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj": {
+                "projectPath": "/Users/wonder_staff/Desktop/maze/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj"
               },
-              "/Users/wonder_staff/My project/UnityEditor.TestRunner.csproj": {
-                "projectPath": "/Users/wonder_staff/My project/UnityEditor.TestRunner.csproj"
+              "/Users/wonder_staff/Desktop/maze/UnityEditor.TestRunner.csproj": {
+                "projectPath": "/Users/wonder_staff/Desktop/maze/UnityEditor.TestRunner.csproj"
               },
-              "/Users/wonder_staff/My project/UnityEngine.TestRunner.csproj": {
-                "projectPath": "/Users/wonder_staff/My project/UnityEngine.TestRunner.csproj"
+              "/Users/wonder_staff/Desktop/maze/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/Users/wonder_staff/Desktop/maze/UnityEngine.TestRunner.csproj"
               }
             }
           }
@@ -133,14 +133,14 @@
         }
       }
     },
-    "/Users/wonder_staff/My project/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.csproj": {
+    "/Users/wonder_staff/Desktop/maze/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/wonder_staff/My project/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.csproj",
+        "projectUniqueName": "/Users/wonder_staff/Desktop/maze/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.csproj",
         "projectName": "Unity.TestTools.CodeCoverage.Editor.OpenCover.Model",
-        "projectPath": "/Users/wonder_staff/My project/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.csproj",
+        "projectPath": "/Users/wonder_staff/Desktop/maze/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.csproj",
         "packagesPath": "/Users/wonder_staff/.nuget/packages/",
-        "outputPath": "/Users/wonder_staff/My project/Temp/obj/Debug/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model/",
+        "outputPath": "/Users/wonder_staff/Desktop/maze/Temp/obj/Debug/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/wonder_staff/.nuget/NuGet/NuGet.Config"
@@ -155,11 +155,11 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "/Users/wonder_staff/My project/UnityEditor.TestRunner.csproj": {
-                "projectPath": "/Users/wonder_staff/My project/UnityEditor.TestRunner.csproj"
+              "/Users/wonder_staff/Desktop/maze/UnityEditor.TestRunner.csproj": {
+                "projectPath": "/Users/wonder_staff/Desktop/maze/UnityEditor.TestRunner.csproj"
               },
-              "/Users/wonder_staff/My project/UnityEngine.TestRunner.csproj": {
-                "projectPath": "/Users/wonder_staff/My project/UnityEngine.TestRunner.csproj"
+              "/Users/wonder_staff/Desktop/maze/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/Users/wonder_staff/Desktop/maze/UnityEngine.TestRunner.csproj"
               }
             }
           }
@@ -193,14 +193,14 @@
         }
       }
     },
-    "/Users/wonder_staff/My project/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj": {
+    "/Users/wonder_staff/Desktop/maze/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/wonder_staff/My project/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj",
+        "projectUniqueName": "/Users/wonder_staff/Desktop/maze/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj",
         "projectName": "Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection",
-        "projectPath": "/Users/wonder_staff/My project/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj",
+        "projectPath": "/Users/wonder_staff/Desktop/maze/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj",
         "packagesPath": "/Users/wonder_staff/.nuget/packages/",
-        "outputPath": "/Users/wonder_staff/My project/Temp/obj/Debug/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection/",
+        "outputPath": "/Users/wonder_staff/Desktop/maze/Temp/obj/Debug/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/wonder_staff/.nuget/NuGet/NuGet.Config"
@@ -215,11 +215,11 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "/Users/wonder_staff/My project/UnityEditor.TestRunner.csproj": {
-                "projectPath": "/Users/wonder_staff/My project/UnityEditor.TestRunner.csproj"
+              "/Users/wonder_staff/Desktop/maze/UnityEditor.TestRunner.csproj": {
+                "projectPath": "/Users/wonder_staff/Desktop/maze/UnityEditor.TestRunner.csproj"
               },
-              "/Users/wonder_staff/My project/UnityEngine.TestRunner.csproj": {
-                "projectPath": "/Users/wonder_staff/My project/UnityEngine.TestRunner.csproj"
+              "/Users/wonder_staff/Desktop/maze/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/Users/wonder_staff/Desktop/maze/UnityEngine.TestRunner.csproj"
               }
             }
           }
@@ -253,14 +253,14 @@
         }
       }
     },
-    "/Users/wonder_staff/My project/UnityEditor.TestRunner.csproj": {
+    "/Users/wonder_staff/Desktop/maze/UnityEditor.TestRunner.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/wonder_staff/My project/UnityEditor.TestRunner.csproj",
+        "projectUniqueName": "/Users/wonder_staff/Desktop/maze/UnityEditor.TestRunner.csproj",
         "projectName": "UnityEditor.TestRunner",
-        "projectPath": "/Users/wonder_staff/My project/UnityEditor.TestRunner.csproj",
+        "projectPath": "/Users/wonder_staff/Desktop/maze/UnityEditor.TestRunner.csproj",
         "packagesPath": "/Users/wonder_staff/.nuget/packages/",
-        "outputPath": "/Users/wonder_staff/My project/Temp/obj/Debug/UnityEditor.TestRunner/",
+        "outputPath": "/Users/wonder_staff/Desktop/maze/Temp/obj/Debug/UnityEditor.TestRunner/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/wonder_staff/.nuget/NuGet/NuGet.Config"
@@ -275,8 +275,8 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "/Users/wonder_staff/My project/UnityEngine.TestRunner.csproj": {
-                "projectPath": "/Users/wonder_staff/My project/UnityEngine.TestRunner.csproj"
+              "/Users/wonder_staff/Desktop/maze/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/Users/wonder_staff/Desktop/maze/UnityEngine.TestRunner.csproj"
               }
             }
           }
@@ -310,14 +310,14 @@
         }
       }
     },
-    "/Users/wonder_staff/My project/UnityEngine.TestRunner.csproj": {
+    "/Users/wonder_staff/Desktop/maze/UnityEngine.TestRunner.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/wonder_staff/My project/UnityEngine.TestRunner.csproj",
+        "projectUniqueName": "/Users/wonder_staff/Desktop/maze/UnityEngine.TestRunner.csproj",
         "projectName": "UnityEngine.TestRunner",
-        "projectPath": "/Users/wonder_staff/My project/UnityEngine.TestRunner.csproj",
+        "projectPath": "/Users/wonder_staff/Desktop/maze/UnityEngine.TestRunner.csproj",
         "packagesPath": "/Users/wonder_staff/.nuget/packages/",
-        "outputPath": "/Users/wonder_staff/My project/Temp/obj/Debug/UnityEngine.TestRunner/",
+        "outputPath": "/Users/wonder_staff/Desktop/maze/Temp/obj/Debug/UnityEngine.TestRunner/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/wonder_staff/.nuget/NuGet/NuGet.Config"

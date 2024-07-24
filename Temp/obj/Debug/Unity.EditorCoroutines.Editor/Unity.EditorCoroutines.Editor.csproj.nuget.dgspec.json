@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/wonder_staff/My project/Unity.EditorCoroutines.Editor.csproj": {}
+    "/Users/wonder_staff/Desktop/maze/Unity.EditorCoroutines.Editor.csproj": {}
   },
   "projects": {
-    "/Users/wonder_staff/My project/Unity.EditorCoroutines.Editor.csproj": {
+    "/Users/wonder_staff/Desktop/maze/Unity.EditorCoroutines.Editor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/wonder_staff/My project/Unity.EditorCoroutines.Editor.csproj",
+        "projectUniqueName": "/Users/wonder_staff/Desktop/maze/Unity.EditorCoroutines.Editor.csproj",
         "projectName": "Unity.EditorCoroutines.Editor",
-        "projectPath": "/Users/wonder_staff/My project/Unity.EditorCoroutines.Editor.csproj",
+        "projectPath": "/Users/wonder_staff/Desktop/maze/Unity.EditorCoroutines.Editor.csproj",
         "packagesPath": "/Users/wonder_staff/.nuget/packages/",
-        "outputPath": "/Users/wonder_staff/My project/Temp/obj/Debug/Unity.EditorCoroutines.Editor/",
+        "outputPath": "/Users/wonder_staff/Desktop/maze/Temp/obj/Debug/Unity.EditorCoroutines.Editor/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/wonder_staff/.nuget/NuGet/NuGet.Config"
@@ -26,11 +26,11 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "/Users/wonder_staff/My project/UnityEditor.TestRunner.csproj": {
-                "projectPath": "/Users/wonder_staff/My project/UnityEditor.TestRunner.csproj"
+              "/Users/wonder_staff/Desktop/maze/UnityEditor.TestRunner.csproj": {
+                "projectPath": "/Users/wonder_staff/Desktop/maze/UnityEditor.TestRunner.csproj"
               },
-              "/Users/wonder_staff/My project/UnityEngine.TestRunner.csproj": {
-                "projectPath": "/Users/wonder_staff/My project/UnityEngine.TestRunner.csproj"
+              "/Users/wonder_staff/Desktop/maze/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/Users/wonder_staff/Desktop/maze/UnityEngine.TestRunner.csproj"
               }
             }
           }
@@ -64,14 +64,14 @@
         }
       }
     },
-    "/Users/wonder_staff/My project/UnityEditor.TestRunner.csproj": {
+    "/Users/wonder_staff/Desktop/maze/UnityEditor.TestRunner.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/wonder_staff/My project/UnityEditor.TestRunner.csproj",
+        "projectUniqueName": "/Users/wonder_staff/Desktop/maze/UnityEditor.TestRunner.csproj",
         "projectName": "UnityEditor.TestRunner",
-        "projectPath": "/Users/wonder_staff/My project/UnityEditor.TestRunner.csproj",
+        "projectPath": "/Users/wonder_staff/Desktop/maze/UnityEditor.TestRunner.csproj",
         "packagesPath": "/Users/wonder_staff/.nuget/packages/",
-        "outputPath": "/Users/wonder_staff/My project/Temp/obj/Debug/UnityEditor.TestRunner/",
+        "outputPath": "/Users/wonder_staff/Desktop/maze/Temp/obj/Debug/UnityEditor.TestRunner/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/wonder_staff/.nuget/NuGet/NuGet.Config"
@@ -86,8 +86,8 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "/Users/wonder_staff/My project/UnityEngine.TestRunner.csproj": {
-                "projectPath": "/Users/wonder_staff/My project/UnityEngine.TestRunner.csproj"
+              "/Users/wonder_staff/Desktop/maze/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/Users/wonder_staff/Desktop/maze/UnityEngine.TestRunner.csproj"
               }
             }
           }
@@ -121,14 +121,14 @@
         }
       }
     },
-    "/Users/wonder_staff/My project/UnityEngine.TestRunner.csproj": {
+    "/Users/wonder_staff/Desktop/maze/UnityEngine.TestRunner.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/wonder_staff/My project/UnityEngine.TestRunner.csproj",
+        "projectUniqueName": "/Users/wonder_staff/Desktop/maze/UnityEngine.TestRunner.csproj",
         "projectName": "UnityEngine.TestRunner",
-        "projectPath": "/Users/wonder_staff/My project/UnityEngine.TestRunner.csproj",
+        "projectPath": "/Users/wonder_staff/Desktop/maze/UnityEngine.TestRunner.csproj",
         "packagesPath": "/Users/wonder_staff/.nuget/packages/",
-        "outputPath": "/Users/wonder_staff/My project/Temp/obj/Debug/UnityEngine.TestRunner/",
+        "outputPath": "/Users/wonder_staff/Desktop/maze/Temp/obj/Debug/UnityEngine.TestRunner/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/wonder_staff/.nuget/NuGet/NuGet.Config"

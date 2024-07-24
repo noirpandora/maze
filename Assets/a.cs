@@ -22,5 +22,8 @@ public class a : MonoBehaviour
         if(Input.GetKey("left")){
             transform.Rotate(0,-10,0);
         }
+        if(Input.GetKey("back")){
+            transform.position+=transform.backward*0.1f;
+        }
     }
 }

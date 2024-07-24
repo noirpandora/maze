@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+X8dKp0YnnFWXil7ovn8AyBYbBsLSoUcafLUv4vyh/yqOLG7l+NU2fT6T9JrHSGI4TznwovE+4jj8B6+fNenZQ==",
+  "dgSpecHash": "ZiV/LmD+fBeEOIZVPMRHFsRz1E7sTx5Gj9LsuKP2cnb1F/PARAhiT6Kd2oY4bltqGXIR3YAILqDlFKdQKz8odg==",
   "success": true,
-  "projectFilePath": "/Users/wonder_staff/My project/Assembly-CSharp.csproj",
+  "projectFilePath": "/Users/wonder_staff/Desktop/maze/Assembly-CSharp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -71,11 +71,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/wonder_staff/My project/Unity.CollabProxy.Editor.csproj",
+      "projectUniqueName": "/Users/wonder_staff/Desktop/maze/Unity.CollabProxy.Editor.csproj",
       "projectName": "Unity.CollabProxy.Editor",
-      "projectPath": "/Users/wonder_staff/My project/Unity.CollabProxy.Editor.csproj",
+      "projectPath": "/Users/wonder_staff/Desktop/maze/Unity.CollabProxy.Editor.csproj",
       "packagesPath": "/Users/wonder_staff/.nuget/packages/",
-      "outputPath": "/Users/wonder_staff/My project/Temp/obj/Debug/Unity.CollabProxy.Editor/",
+      "outputPath": "/Users/wonder_staff/Desktop/maze/Temp/obj/Debug/Unity.CollabProxy.Editor/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/wonder_staff/.nuget/NuGet/NuGet.Config"
@@ -90,14 +90,14 @@
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "/Users/wonder_staff/My project/Unity.PlasticSCM.Editor.csproj": {
-              "projectPath": "/Users/wonder_staff/My project/Unity.PlasticSCM.Editor.csproj"
+            "/Users/wonder_staff/Desktop/maze/Unity.PlasticSCM.Editor.csproj": {
+              "projectPath": "/Users/wonder_staff/Desktop/maze/Unity.PlasticSCM.Editor.csproj"
             },
-            "/Users/wonder_staff/My project/UnityEditor.TestRunner.csproj": {
-              "projectPath": "/Users/wonder_staff/My project/UnityEditor.TestRunner.csproj"
+            "/Users/wonder_staff/Desktop/maze/UnityEditor.TestRunner.csproj": {
+              "projectPath": "/Users/wonder_staff/Desktop/maze/UnityEditor.TestRunner.csproj"
             },
-            "/Users/wonder_staff/My project/UnityEngine.TestRunner.csproj": {
-              "projectPath": "/Users/wonder_staff/My project/UnityEngine.TestRunner.csproj"
+            "/Users/wonder_staff/Desktop/maze/UnityEngine.TestRunner.csproj": {
+              "projectPath": "/Users/wonder_staff/Desktop/maze/UnityEngine.TestRunner.csproj"
             }
           }
         }
