@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class a : MonoBehaviour
 {
@@ -14,7 +15,7 @@ public class a : MonoBehaviour
     void Update()
     {
         if(Input.GetKey("up")){
-            transform.position+=transform.forward*0.1f;
+            transform.position+=transform.forward*0.5f;
         }
         if(Input.GetKey("right")){
             transform.Rotate(0,10,0);
@@ -23,7 +24,13 @@ public class a : MonoBehaviour
             transform.Rotate(0,-10,0);
         }
         if(Input.GetKey("down")){
-            transform.position+=transform.forward*-0.1f;
+            transform.position+=transform.forward*-0.5f;
+        }
+    }
+
+    private void OnCollisionEnter(Collision collision){
+        if(collision.gameObject.name=="GOAL"){
+            SceneManager.LoadScene("GoalScene");
         }
     }
 }
